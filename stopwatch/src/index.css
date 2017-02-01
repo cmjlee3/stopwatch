@@ -1,0 +1,20 @@
+body {
+ /* margin: 0;
+  padding: 0;*/
+  font-family: sans-serif;
+}
+
+.stopWatch {
+  display: inline;
+  float: left;
+  margin-left: 10px;
+}
+
+h2 {
+
+}
+
+button {
+  display: inline-block;
+  margin-top: 70px;
+}
